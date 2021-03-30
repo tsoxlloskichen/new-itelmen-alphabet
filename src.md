@@ -93,10 +93,12 @@
 
 После перевода на новоительменский алфавит нет трудностей в переводе ительменского на латиницу взаимнооднозначным способом:
 
-A a	B b	V v	G g	D d	Ye ye	Yo yo	Zh zh	Z z	I i	Y y	K k
-Kx kx	Kq kq	Kqx kqx	L l	Lx lx	Lq lq	M m	N n	Nx nx	Nq nq	O o	P p
-Px px	R r	S s	T t	Tx tx	U u	F f	J j	Jq jq	C c	Ch ch	Chx chx
-Sh sh	Sch sch	Q q	W w	X x	Ex ex	E e	Yu yu	Ya ya	Xx xx
+|     |       |       |   |     |     |     |     |     |     |     |       |
+|-----|-------|-------|---|-----|-----|-----|-----|-----|-----|-----|-------|
+|A a	|B b	  |V v	  |G g|D d	|Ye ye|Yo yo|Zh zh|Z z	|I i	|Y y	|K k    |
+|Kx kx|Kq kq  |Kqx kqx|L l|Lx lx|Lq lq|M m  |N n  |Nx nx|Nq nq|O o  |P p    |
+|Px px|R r    |S s    |T t|Tx tx|U u  |F f  |J j  |Jq jq|C c  |Ch ch|Chx chx|
+|Sh sh|Sch sch|Q q    |W w|X x  |Ex ex|E e  |Yu yu|Ya ya|Xx xx|
 
 где из кириллических йотовых буквы вынесен йот Y, и некоторые буквы используются строго для модификации значения предыдущей буквы и нигде более: Q = Ъ, X = Ь, а H лишь помогает в передаче букв Ж Ш Щ Ч и нигде кроме этого не используется.
 
