@@ -88,14 +88,9 @@ Sh sh	Sch sch	Q q	W w	X x	Ex ex	E e	Yu yu	Ya ya	Xx xx
 
 Рассмотрим примеры написания до и после (с латиницей):
 
-кзуњӆӄукнин - kzunxlqkquknin
-
-вэтаткиԓӽ - vetatkilqjq
-
-тӽӑлтӽӑл - tjaxltjaxl
-
-ч'эном - chxenom
-
-ӄ'ыӄ' - kqxwkqx
-
-йуӈйучҳ - yunqyuchxq
+- кзуњӆӄукнин - kzunxlqkquknin
+- вэтаткиԓӽ - vetatkilqjq
+- тӽӑлтӽӑл - tjaxltjaxl
+- ч'эном - chxenom
+- ӄ'ыӄ' - kqxwkqx
+- йуӈйучҳ - yunqyuchxq
